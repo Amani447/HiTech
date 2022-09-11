@@ -1,0 +1,20 @@
+#logo{
+	font-size: 30px;
+	color: black;
+	letter-spacing: 1px;
+	text-shadow: 2px 3px 5px black;
+	font-family: Constantia;
+}
+#footer{
+	background-color: #322D2D;
+}
+#footer-icons{
+	word-spacing: 60px;
+	font-size: 35px;
+	text-align: center;
+}
+.link{
+	text-decoration: none;
+	line-height: 40px;
+}
+
